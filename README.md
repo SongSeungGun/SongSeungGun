@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=1000&color=F7F7F7&background=000000FE&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=1050&height=100&lines=Hello%2C+my+name+is+Seung-Gun+Song.+From+now+on%2C+i+will+introduce+my+profile!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=1000&color=F7F7F7&background=000000FE&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EC%A7%84%EC%8B%A4&width=1050&height=100&lines=Hello%2C+my+name+is+Seung-Gun+Song.+From+now+on%2C+i+will+introduce+my+profile!!" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://github.com/kyechan99/capsule-render">
