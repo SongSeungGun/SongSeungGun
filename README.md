@@ -34,6 +34,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
 <div align= "center"> <a href=mailto:thdtmdrj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thdtmdrj@gmail.com"> </a> </div>
 <div align= "center"> <a href="https://hits.seeyoufarm.com">
+  <a href="https://open.kakao.com/o/gPpNuyvg"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> </a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongSeungGun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
    </div> 
 </div>
@@ -45,7 +46,7 @@
 <a href="https://colab.research.google.com/drive/1L2Ut_wMSuFey4Ddi4S21PCw9d2b0DvIO?hl=ko">Hard hat object detection model</a>  |
 <a href="https://colab.research.google.com/drive/14qHAtpVteRjnnGDEMdRNOX_Gi_6VRy2f#scrollTo=mNCu_lAYffJ1">Roadside pothole detection model</a>  |
 <a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  |
-
+<a href=""></a>
 </div>
 
 <div style="text-align: left;"> 
