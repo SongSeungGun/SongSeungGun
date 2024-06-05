@@ -10,16 +10,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Excel , Word , PowerPoint 등을 시작으로 현재는 Python 인터프리터 언어를 공부하고 있습니다!  </div> 
     </div>
 
-# List of projects worked on
-
-<div align="center">
-<a href="https://github.com/Songseunggeon/addbook">address book</a>  |
-<a href="https://colab.research.google.com/drive/1L2Ut_wMSuFey4Ddi4S21PCw9d2b0DvIO?hl=ko">Hard hat object detection model</a>  |
-<a href="https://colab.research.google.com/drive/14qHAtpVteRjnnGDEMdRNOX_Gi_6VRy2f#scrollTo=mNCu_lAYffJ1">Roadside pothole detection model</a>  |
-<a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  |
-
-</div>
-
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
@@ -34,7 +24,6 @@
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
       <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -48,6 +37,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongSeungGun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
    </div> 
 </div>
+
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SongSeungGun&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/> 
@@ -55,3 +45,13 @@
   </div> 
 </div>
     
+
+# List of projects worked on
+
+<div align="center">
+<a href="https://github.com/Songseunggeon/addbook">address book</a>  |
+<a href="https://colab.research.google.com/drive/1L2Ut_wMSuFey4Ddi4S21PCw9d2b0DvIO?hl=ko">Hard hat object detection model</a>  |
+<a href="https://colab.research.google.com/drive/14qHAtpVteRjnnGDEMdRNOX_Gi_6VRy2f#scrollTo=mNCu_lAYffJ1">Roadside pothole detection model</a>  |
+<a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  |
+
+</div>
