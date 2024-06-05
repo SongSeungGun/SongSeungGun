@@ -38,14 +38,6 @@
    </div> 
 </div>
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SongSeungGun&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongSeungGun&layout=compact&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/>
-  </div> 
-</div>
-    
-
 # List of projects worked on
 
 <div align="center">
@@ -55,3 +47,11 @@
 <a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  |
 
 </div>
+
+<div style="text-align: left;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SongSeungGun&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongSeungGun&layout=compact&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/>
+  </div> 
+</div>
+    
