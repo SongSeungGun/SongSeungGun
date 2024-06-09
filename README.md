@@ -46,7 +46,7 @@
 <a href="https://colab.research.google.com/drive/1L2Ut_wMSuFey4Ddi4S21PCw9d2b0DvIO?hl=ko">Hard hat object detection model</a>  |
 <a href="https://colab.research.google.com/drive/14qHAtpVteRjnnGDEMdRNOX_Gi_6VRy2f#scrollTo=mNCu_lAYffJ1">Roadside pothole detection model</a>  |
 <a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  |
-<a href=""></a>
+<a href="https://github.com/SongSeungGun/TM-02"> Teachable Machine / posture check program </a>
 </div>
 
 <div style="text-align: left;"> 
