@@ -42,8 +42,8 @@
 # List of projects worked on
 
 <div align="center">
-<a href="https://github.com/Songseunggeon/addbook">address book</a>  <br>
-<p align="center"> <a href="https://github.com/SongSeungGun/AiModels">AI Object detection model</a>  </p>  <br>
+<a href="https://github.com/Songseunggeon/addbook"> address book </a>  <br>
+<p align="center"> <a href="https://github.com/SongSeungGun/AiModels"> AI Object detection model </a>  </p>  <br>
 <a href="https://songseunggun.github.io/TM-02/"> Teachable Machine / posture check program </a>  <br>
 <a href="https://songseunggun.github.io/Car_Object_Detection_Program"> Car_Object_Detection_Program </a>  <br>
 </div>
