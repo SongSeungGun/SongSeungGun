@@ -47,7 +47,7 @@
 <a href="https://colab.research.google.com/drive/14qHAtpVteRjnnGDEMdRNOX_Gi_6VRy2f#scrollTo=mNCu_lAYffJ1">Roadside pothole detection model</a>  <br>
 <a href="https://colab.research.google.com/drive/1h67GqBXefwoVTj1mOxHTXbFO1DLbZCHW">Forest fire prevention detection model</a>  <br>
 <a href="https://github.com/SongSeungGun/TM-02"> Teachable Machine / posture check program </a>  <br>
-<a href="https://github.com/SongSeungGun/Car_Object_Detection_Program"> Car_Object_Detection_Program </a>  <br>
+<a href="[https://github.com/SongSeungGun/Car_Object_Detection_Program](https://songseunggun.github.io/Car_Object_Detection_Program/)"> Car_Object_Detection_Program </a>  <br>
 </div>
 
 <div style="text-align: left;"> 
