@@ -30,7 +30,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href="https:/www.instargram/sg_so/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=[sg_so]"> </a>
+    <div align= "center"> <a href="https:/www/instargram.com/sg_so/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=[sg_so]"> </a>
     <a href=mailto:thdtmdrj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thdtmdrj@gmail.com"> </a>
     </div>
     <div align= "center"> <a href="https://hits.seeyoufarm.com">
