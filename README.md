@@ -44,8 +44,7 @@
 <div align="center">
 <a href="https://github.com/Songseunggeon/addbook"> address book </a>  <br>
 <a href="https://github.com/SongSeungGun/AiModels"> AI Object detection model </a>  <br>
-<a href="https://github.com/SongSeungGun/TM-02"> 자세 확인 프로그램 </a>  <br>
-<a href="https://songseunggun.github.io/TM-02/"> Teachable Machine / posture check program (실행) </a>  <br>
+<a href="https://github.com/SongSeungGun/TM-02"> 자세 확인 프로그램 </a> <a href="https://songseunggun.github.io/TM-02/"> Teachable Machine / posture check program (실행) </a>  <br>
 <a href="https://songseunggun.github.io/Car_Object_Detection_Program"> Car_Object_Detection_Program </a>  <br>
 </div>
 
