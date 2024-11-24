@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=1000&color=F7F7F7&background=000000FE&center=true&vCenter=true&random=false&width=1050&height=100&lines=Hello%2C+my+name+is+Seung-Gun+Song.+From+now+on%2C+i+will+introduce+my+profile!!)](https://git.io/typing-svg)
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1561f9&height=180&text=Welcome%20To%20My%20Github&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
