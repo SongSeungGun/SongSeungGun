@@ -33,6 +33,10 @@
     <div align= "center"> <a href=sg_so> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=sg_so"> </a>
          <a href=mailto:thdtmdrj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thdtmdrj@gmail.com"> </a>
           </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com">
+    <a href="https://open.kakao.com/o/s7Khwyvg"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongSeungGun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    </div> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
